@@ -1,5 +1,5 @@
 # 💫 About Me:
-I write code that sometimes works on the first try (miracles do happen, rarely though) and build things because “what if…” is my favorite phrase. You’ll find me knee-deep in side projects, chasing that dopamine hit of a green test suite or a finally-working API call.<br><br>🔧 I love to break things.. responsibly.<br>🧠 Currently obsessed with making computers feel less like calculators and more like collaborators.<br>☕ Powered by curiosity, caffeine, and the occasional existential bug hunt at 2 AM.<br><br>My repos are esentially like my digital sketchbook — messy in most places but always evolving.<br>Stick around, open an issue, or send a weird PR. I’m into it.
+I write code that sometimes works on the first try (rarely though) and build things. You’ll find me knee-deep in side projects, chasing that dopamine hit of a green test or a finally-working API call.<br><br>🔧 I love to break things... responsibly.<br>🧠 Currently obsessed with making computers feel less like calculators and more like collaborators.<br>☕ Powered by curiosity, caffeine (mostly caffiene), and the occasional existential bug hunt at 2 AM.<br><br>My repos are like my digital sketchbook — messy in most places but always evolving.<br>Stick around, open an issue, or send a weird PR. I’m into it.
 
 
 # 💻 Tech Stack:
