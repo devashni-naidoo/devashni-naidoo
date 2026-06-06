@@ -20,4 +20,12 @@ I write code that sometimes works on the first try (miracles do happen, rarely t
 
 ---
 
+![Clown-Driven Development](https://img.shields.io/badge/Clown--Driven-Development-ff69b4?style=for-the-badge&logo=clown&logoColor=white)
+![It Works On My Machine](https://img.shields.io/badge/It%20Works-On%20My%20Machine-brightgreen?style=for-the-badge&logo=windows&logoColor=white)
+![Semicolon Forgiver](https://img.shields.io/badge/Semicolon-Forgiver-orange?style=for-the-badge&logo=javascript&logoColor=white)
+![2 AM Debugger](https://img.shields.io/badge/2%20AM-Debugger-blue?style=for-the-badge&logo=night&logoColor=white)
+![Refactoring Addict](https://img.shields.io/badge/Refactoring-Addict-red?style=for-the-badge&logo=code&logoColor=white)
+![PRs Welcome? Probably](https://img.shields.io/badge/PRs-Welcome%3F%20Probably-green?style=for-the-badge&logo=github&logoColor=white)
+![Existential Bug Hunter](https://img.shields.io/badge/Existential-Bug%20Hunter-8A2BE2?style=for-the-badge&logo=bugs&logoColor=white)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
