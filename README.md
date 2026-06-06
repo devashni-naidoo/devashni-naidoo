@@ -19,6 +19,5 @@ I write code that sometimes works on the first try (miracles do happen) and buil
 ![](https://github-contributor-stats.vercel.app/api?username=devashni-naidoo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=devashni-naidoo&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
